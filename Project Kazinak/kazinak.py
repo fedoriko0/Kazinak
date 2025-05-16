@@ -549,5 +549,5 @@ if __name__ == '__main__':
         with open(HOLIDAYS_FILE, 'w', encoding='utf-8') as f:
             json.dump([], f)
 
-    # Запуск приложения с настройками для Railway
-    app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
+    port = int(os.environ.get("PORT", 5000))  # Railway передает порт через $PORT
+    app.run(host='0.0.0.0', port=port, debug=False)  # debug=False для "продового" режима
