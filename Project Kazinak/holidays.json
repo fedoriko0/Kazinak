@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Новый год",
+        "date": "01.01.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=2ecb065d2f075eff1f2af68581adda02_l-5244487-images-thumbs&n=13",
+        "text": "dishes_texts/Оливье.txt"
+    },
+    {
+        "name": "Рождество Христово (православное)",
+        "date": "07.01.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=4d666cb69638cef233a3d1515d67a0e3_l-9211697-images-thumbs&n=13",
+        "text": "dishes_texts/Пирог с капустой.txt"
+    },
+    {
+        "name": "Старый Новый год",
+        "date": "14.01.2025",
+        "image": "https://bataysk-gorod.ru/wp-content/uploads/2024/01/vareniki_s_siurprizom-648172.jpg",
+        "text": "dishes_texts/Пельмени с сюрпризом.txt"
+    },
+    {
+        "name": "День святого Валентина",
+        "date": "14.02.2025",
+        "image": "https://cdn.culture.ru/images/d4873438-f36f-56bf-a12b-fe30d09b2a3a",
+        "text": "dishes_texts/Печенье в виде сердечек.txt"
+    },
+    {
+        "name": "Всемирный день кошек",
+        "date": "01.03.2025",
+        "image": "https://i.pinimg.com/736x/c4/35/04/c43504c7349727c2018b3b6b2770c497.jpg",
+        "text": "dishes_texts/Печенье в виде кошек.txt"
+    },
+    {
+        "name": "Международный женский день",
+        "date": "08.03.2025",
+        "image": "https://www.chefmarket.ru/blog/wp-content/uploads/2019/11/117411845_m-2000x1200.jpg",
+        "text": "dishes_texts/Салат мимоза.txt"
+    },
+    {
+        "name": "День смеха",
+        "date": "01.04.2025",
+        "image": "https://slushna.by/wp-content/uploads/2024/01/img11.webp",
+        "text": "dishes_texts/Канапе.txt"
+    },
+    {
+        "name": "Пасха",
+        "date": "20.04.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=4c3c54a404882b302ec933893fcf005d_l-12932351-images-thumbs&n=13",
+        "text": "dishes_texts/Кулич.txt"
+    },
+    {
+        "name": "День труда",
+        "date": "01.05.2025",
+        "image": "https://avatars.mds.yandex.net/get-altay/14110197/2a000001921fb1478b67322565f682586cd5/XXXL",
+        "text": "dishes_texts/Шашлык.txt"
+    },
+    {
+        "name": "День Победы",
+        "date": "09.05.2025",
+        "image": "https://www.tastesofrussia.ru/wp-content/uploads/2023/05/9_maia_salat-1.jpg",
+        "text": "dishes_texts/Салат победа.txt"
+    },
+    {
+        "name": "День защиты детей",
+        "date": "01.06.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=0c5703c08183c3ed96e98b41ce4963f3_l-5277129-images-thumbs&n=13",
+        "text": "dishes_texts/Пицца.txt"
+    },
+    {
+        "name": "Ивана Купала",
+        "date": "07.07.2025",
+        "image": "https://avatars.mds.yandex.net/get-mpic/5266697/img_id7770832864363832907.jpeg/orig",
+        "text": "dishes_texts/Вареники с ягодами.txt"
+    },
+    {
+        "name": "День семьи, любви и верности",
+        "date": "08.07.2025",
+        "image": "https://i.pinimg.com/736x/d0/bb/3f/d0bb3f9afba9b44fb8f4cc4a12951272.jpg",
+        "text": "dishes_texts/Торт сердце.txt"
+    },
+    {
+        "name": "День знаний",
+        "date": "01.09.2025",
+        "image": "https://i.pinimg.com/originals/0a/48/51/0a4851dff1b413565aa78c19124260fa.jpg",
+        "text": "dishes_texts/Пирог с фруктами и ягодами.txt"
+    },
+    {
+        "name": "День учителя",
+        "date": "05.10.2025",
+        "image": "https://avatars.mds.yandex.net/get-mpic/5209949/img_id5231163335721962072.jpeg/orig",
+        "text": "dishes_texts/Кейк-попсы карандаши.txt"
+    },
+    {
+        "name": "Хэллоуин",
+        "date": "31.10.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=73f4e8ea3d76d25132864982f262cb85_l-5513323-images-thumbs&n=13",
+        "text": "dishes_texts/Тыквенный пирог.txt"
+    },
+    {
+        "name": "День народного единства",
+        "date": "04.11.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=32021ecaee3de1973cdde2b948c18d8e_l-5268869-images-thumbs&n=13",
+        "text": "dishes_texts/Классический борщ.txt"
+    },
+    {
+        "name": "День благодарения",
+        "date": "23.11.2025",
+        "image": "https://i.pinimg.com/736x/0d/c9/0a/0dc90a5abf198e68c17c51929239efc2.jpg",
+        "text": "dishes_texts/Фаршированная индейка.txt"
+    },
+    {
+        "name": "День матери",
+        "date": "26.11.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=95ca5f9852b203e3459e1afef361eeb7_l-8263641-images-thumbs&n=13",
+        "text": "dishes_texts/Простой торт.txt"
+    },
+    {
+        "name": "Международный день чая",
+        "date": "15.12.2025",
+        "image": "https://avatars.mds.yandex.net/i?id=1b0e6328a7586fe079d0bacebfe371c5_l-9855166-images-thumbs&n=13",
+        "text": "dishes_texts/Чай с сахаром.txt"
+    },
+    {
+        "name": "Католическое Рождество",
+        "date": "25.12.2025",
+        "image": "https://i.pinimg.com/736x/38/ec/19/38ec197b2a1ea0b7d5b19e52d76496aa.jpg",
+        "text": "dishes_texts/Имбирное печенье.txt"
+    }
+]
